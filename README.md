@@ -1,4 +1,5 @@
 # PythonEncrypt
+Procedure-
 Encryption and decryption of a document file.
 Install python 3.9.6.
 After installing python use command prompt to install pip cryptography package.
